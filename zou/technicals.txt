@@ -1,0 +1,57 @@
+I own a lot of these notes to http://www.swing-trade-stocks.com
+
+technical analysis is far from an exact science
+
+The #1 thing that affects sentiment is price itself.
+At anytime random or otherwise unknown sources of supply or demand may enter the market and
+affect prices. In fact just about everyone would like to do their buying or selling as secretly
+and quietly as possible.
+
+Compositions of swing points (pivots)
+Compositions of swings between swing points
+
+short term trend
+intensity (volume and range)
+psychology
+  recent action
+  price level
+  fundamentals
+
+How to enter a position with the least amount of risk. Entries are arguably much more important
+than exits. Know the difference between when its fine to enter a position and when its fine
+to hold an existing position but not fine to enter a position if one did not exist.
+
+Steady decline is not fear, gap downs or otherwise violent down moves show fear. Can also be
+gauged by looking at VIX. 30+ is getting dicey, and 40+ are really rare.
+
+After a position goes in your favor, continue to gauge trend quality. For example if price
+moves above a previous high pivot on higher volume, its a sign that the trend is healthy.
+
+Trend reversal:
+  trendline breaks
+  retest and failure of recent high(or low)
+  a new lower low(or higher high)
+
+support and resistance are zones. Think about supply and resistance as: x is resistance, and
+as prices goes higher resistance should increase.
+
+Stocks trend a minority of the time, some say its 30%.
+
+For the broader markets, even we laymen can attempt to factor in fundamentals, my own model:
+  generational cycle
+  business cycle
+  sentiment cycle
+  random
+
+longer term indicators:
+when vol spikes really high, might be an indication people are too long, bidding up puts during
+troubled times. business cycle might be maturing.
+
+when equity index prices lead actual company earnings, business cycle is young and most longs
+are early and sharp guys. when equities is slow to react to deterioration in fundamentals, like
+earnings projection decreases, business cycle might be maturing and there are a lot of novice
+buying.
+
+pure chart reading does not work on the broader markets with many participants. the most basic
+technical setups will quickly get crowded. we need a little more than pure technicals, such
+as a better understanding of psychology and/or a better estimate of cycles (mean reversion)
