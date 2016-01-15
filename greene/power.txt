@@ -1,0 +1,109 @@
+Algorithmic trading is an incredibly competitive area. Successful algorithmic trading incurs
+very little risk but is tough to scale. They typically execute trades that last anywhere from
+seconds to hours but usually no longer than that.
+
+The reason purely algorithmic trades don't have longer time horizon. A.I. has come a long way
+but it is still not better than the best trained humans in a specific area. However computers
+are faster. The longer a trade is held the smaller a computer's speed advantage gets.
+
+Imagine a purely algorithmic strategy where trades have a longer holding period and doesn't
+put on a massive number of trades. At this point if you employee an expert human trader to
+monitor the output of the algorithm and overrules it when the human has strong conviction
+that the algorithm isn't producing a profitable trade in this instance, you will have a system
+that will beat the purely algorithmic strategy. This is only theoretical.
+
+Some traders like to think of the entire market as their competitor. However when an algorithmic
+strategy executes a quick trade, its typically picking off a few big buyers or sellers that
+are sometimes unwillingly doing something slightly inefficient. And in that short time frame
+the algorithmic strategy with its lightning speed is not competing with the entire market.
+
+
+Notes from the 48 laws of power
+
+these are summaries from history, not results from psychological reasearch, just keep this
+in mind
+
+action is stronger than words
+
+create compelling spectacles
+act confidently and bold, regal
+act generously, but be smart about it
+build your reputation
+avoid emotions like anger, jealousy
+control emotions as they only affect the present, be more long term focused
+be forward thinking, at least one step ahead of your opponents
+have patients and be attuned to timing
+be secretive, use deception, but be subtle, never get caught or recognized
+don't show people your hard work, only impress them with your results
+understand people's inner workings
+keep own hands clean, use pawns, scapegoats
+dont show weakness
+don't make people envy you, make them envy another enemy
+dont be arrogant
+adapt, be versatile, dont be stubborn or complacent
+small flexible teams are more efficient
+speak less - if you speak more people are more likely to pick at areas they do not agree with
+also if you appear less frequently, each appearance is more valuable
+play dumb
+make others come to you, use bait is necessary
+dont isolate your self, be out and about, be social
+only isolate your deepest goals, motives, desires
+
+
+
+treat different people differently. people belong in these 3 categories: true ally (very few
+in number. sometimes family ties aren't enough to make someone your ally), enemy (also few
+in number in modern times, but can be large), and frienemy.
+
+for frienemies:
+
+make people need you, tell them how you can benefit them from now on instead of how you've
+benefited them in the past.
+
+feed on people's need
+
+find their insecurities, sources of unhappiness, guilty pleasures
+also find people with delusions of grandeur
+
+share secrets with others to gain their trust
+act like others, act similar to them
+
+for enemies:
+
+make them angry, jealous, emotional in general (same traits that you avoid)
+axiety, overconfidence, complacency
+anything you do to an enemy you can also do to a frienemy or even ally when the situation
+necessitates it, but be secretive about it and do not get caught.
+ignore them, paying them attention empowers them
+strike at their leaders(power in any organization centralizes around very few), and shoot
+to kill
+
+dont make the wrong enemy
+
+dealing with money is emotional
+
+deception (also employing a lot of indirection) - can be very camouflaged, recognize it
+dont trust anyone or anything, question everything. understand people thoroughly and their
+motives, if anything doesn't make sense, question their actions (in your mind, not outwardly)
+
+no time to rest, power is ever flowing
+innovate, be creative, don't be complacent
+privileges of birth are an impediment to power
+
+change slowly, people generally oppose change
+
+friends can be more deceptive than enemies, friends need to be secretive in order to hurt you
+to benefit themselves while enemies dont necessarily need to
+
+what can't be seen or felt has no value
+
+(exploiting people's emotions, can be fruitless when people learn how to rely on non subjective
+information like data)
+most of the world is not a meritocracy, which is why when people compete for limited valuable
+resources some of the above laws apply. People are making decisions and subjectivity abounds.
+Some examples of pure meritocracies: lower level academia (undergraduate and below), the athletes
+in sports. In both of these cases strictly objective measurements are applied to gauge success.
+
+Holy grail - doesn't exist
+attention to details and improving marginally in any and every aspect is how people improve
+at the most competitive levels competitions are won at the margins
