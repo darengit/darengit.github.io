@@ -1,0 +1,27 @@
+a:link {
+    color:blue;
+    background-color:transparent;
+    text-decoration:none
+}
+
+a:visited {
+    color:blueviolet;
+    background-color:transparent;
+    text-decoration:none
+}
+
+a:hover {
+    color:blue;
+    background-color:transparent;
+    text-decoration:underline
+}
+
+a:active {
+    color:blueviolet;
+    background-color:transparent;
+    text-decoration:underline
+}
+
+a {
+    font-size:160%
+}
