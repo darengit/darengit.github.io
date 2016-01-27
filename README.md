@@ -1,2 +1,2 @@
 # darengit.github.io
-static webpage
+My notes from my spare time
