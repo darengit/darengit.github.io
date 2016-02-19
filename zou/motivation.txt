@@ -1,10 +1,104 @@
-we are driven by pleasure and improvement. 4 chemicals in our brains are responsible for these
-drivers, the one most responsible for improvement is dopamine.
+Motivation
 
-The other three are endorphins, serotonin, oxytocin. They are mainly responsible for various
+
+- Intro -
+
+As we meander through life, what are the drivers behind our voluntary actions? Strictly speaking
+from life experience I believe we have two main sources of motivation. We are motivated by
+immediate pleasures and longer term improvement.
+
+
+- Neurotransmitters -
+
+After reading a lot more about this subject, I believe we are primarily driven by the neurotransmitter
+dopamine. There are three other neurotransmitters that also contribute and I'll first go over
+them quickly:
+
+
+Endorphins - Neurotransmitter that is released when we are healing from physical wounds. It
+is very similar to morphine. It is also associated with tastes like salt and spiciness. I wonder
+if there is a correlation between exercise junkies and having heavy taste. Have you ever heard
+an exercise junky say "I haven't worked out in two days, I feel so out of shape"? I believe
+he/she is actually feeling endorphins withdraw.
+
+Oxytocin - Neurotransmitter that is associated with physical contact with a loved one. Beyond
+this I wouldn't consider this neurotransmitter to be that interesting.
+
+Serotonin - A very prevalent neurotransmitter that is associated with mood, appetite, sleep,
+and memory. Its also responsible for the feeling of social well being. For example when you
+are admired or looked up to by others this neurotransmitter is activated. Current understanding
+of serotonin has a lot of overlap with Dopamine. In a lot of instances the distinction between
+the two are not clear.
+
+
+- Dopamine -
+
+Now we get to Dopamine, which is a Kahuna of a neurotransmitter. Dopamine is very versatile
+as well as very prevalent. Its often paired up with the three neurotransmitters above. This
+neurotransmitter is associated with but not limited to:
+
+  our reward system
+  memory, learning, processing of new information, cognitive activities in general
+  almost all immediate pleasures
+  most positive emotions, including the emotions associated with friendship and love
+  muscle movement
+  adrenaline, risk taking
+
+Dopamine differs from the other three neurotransmitters, we can exert some conscious control
+over the conditions under which dopamine is activated in our brain. I also believe its the
+main driver of our long term improvement. Dopamine is responsible for just about all voluntary
+actions that do not lead to some immediate pleasure. As well as some actions that lead to immediate
 pleasures.
 
-Dopamine can occur along with the other three. It drives our own goals.
+When we perform tasks that are not immediately pleasurable like physical labour, exercise,
+studying, paper work, we feel a sense of satisfaction when we complete chunks of such activities.
+Dopamine is responsible for such satisfaction and is responsible for motivating us.
 
-We can keep motivated torwards a goal if our brain isn't saturated with dopamine from other
-sources or a combination of the other pleasure chemicals.
+Dopamine is the most basic reward we give ourselves, it helps tell our brain when you’ve done
+something good, and promotes our brains to remember what we did that was good and repeat to
+get the reward again.
+
+Dopamine is also released whenever we form new neurons. This includes times like when we are
+learning a new subject area, when we are exposed to new environments, when we meet and get
+to know new people. I also believe analytical problem solving induces Dopamine.
+
+Dopamine is also released with adrenaline during a fight or flight response. This fact must
+produce some evolutionary advantage. But I am not sure what exactly. My best guess is that
+curing times when we require a fight or flight response, dopamine causes us to remember the
+event more deeply and that helps a person's future survival rate. As an unintended consequence
+we have thrill seekers that jump out of air planes for fun.
+
+Dopamine is also associated with muscle movement as well as many other bodily functions. However
+dopamine doesn't cross the blood/brain barrier.
+
+
+- What Does It Matter -
+
+Humans actively regulate the amount of dopamine in the brain. Excess dopamine creates a state
+of euphoria that has been shown to impair judgement. Our hunger for dopamine is our primary
+source of motivation, excess dopamine affects our overall motivation.
+
+- unedited -
+
+try, cut out excess sources of dopamine which include:
+drugs, they inhibit brains ability to remove excess dopamine
+video games, they are designed to trigger human reward system and quickly, dont let excess dopamine from
+such activities take you away from activities that contribute to longer term goals
+other guilty pleasures, like food (that taste good but are not actually high in nutritional value)
+
+dopamine is like food, we need it but we don't want an excess and we want to have good sources and cut out
+bad sources
+
+" key in behavior, cognition, motivation and reward. In other words, it helps tell your body when you’ve done something good, and promotes our brains to remember what we did that was good and repeat to get the reward again."
+
+is only released when something good happens and we want to commit it to memory. other factors make us feel and probably remember negative experiences. if dopamine is high, gambler is born.
+
+dopamine food analogy
+
+new neural pathways when you learn new things or are exposed to new environments
+
+anything that requires a person to be more alert, also stirs up good feelings. I believe this is evolutionary. In order to be alert, to have a clear mind, have good memory, be focused, human brain produces dopamine which actually causes pleasure. I think (this is not a fact) that humans will react to elevate mental focus (and memory) when good things occur (things which trigger dopamine). Naturally we want to remember pleasurable things. However at the opposite end, when exploring new areas, or when we are in danger, we also need elevated focus, and dopamine is also produced in this case.
+
+Its documented that dopamine is produced in the body during an adrenaline rush, however that’s different from the dopamine produced in the brain which is considered pleasurable.
+motivation.txtOpen
+Displaying motivation.txt.
