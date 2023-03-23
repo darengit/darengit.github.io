@@ -2,7 +2,7 @@ var height = getHeight();
 var width = getWidth();
 var centerX = Math.floor(width/2);
 var centerY = Math.floor(height/2);
-var resetRadius = 100;
+var resetRadius = 160;
 var radius = resetRadius;
 var radiusDelta = 3;
 var period = 20;
@@ -25,8 +25,6 @@ function runAPMClick() {
 		targetElem.style.position = "relative"; 
 		targetElem.style.left = centerX - radius + "px";
 		targetElem.style.top = centerY - radius + "px";
-		targetElem.style.background = "red"; 
-
 
 		// if the target becomes 0 then game is over
 		if (--radius == 0) {
@@ -35,7 +33,7 @@ function runAPMClick() {
 	}
 }
 
-document.body.addEventListener('click', gameOver); 
+document.addEventListener('click', gameOver); 
 document.getElementById("target").addEventListener('click', targetClickCB);
 
 function gameOver() {
